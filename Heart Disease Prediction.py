@@ -29,7 +29,7 @@ cf.go_offline()
 
 # In[4]:
 
-
+#heart disease prediciton
 heart=pd.read_csv(r'C:\Python37\Projects\ALL ML-DL-DS Projects from Udemy and other Sources\Data_Science\ML_Casestudies-master\heart disease\heart.csv')
 
 
